@@ -2,23 +2,13 @@
 
 La idea de este espacio es tener un lugar para compartir y orgarnizar las reuniones mensuales del grupo.
 
+####Filosofía
+Compartir, aprender y divertirnos. Nos guiamos por medio de los principios ágiles y libre participación en donde el conocimiento es compartido y las desiciones tomadas en conjunto. Todos somos organizadores, presentadores, maestros y aprendizes y con esa idea es la nos gustaría que la comunidad crezca, se auto organize y sirva de apoyo a los que recién comienzan o quieren continuar aprendiendo o enseñar lo que la experiencia les brindó.
 
-####Eventos
-#####Mayo 2015
-Charlas:
-* _Vuelo ultraligero con FlightPHP_ por Alejandro Mohamad
-* _Para que sirve documentar restful APIs_ por Ezequiel Gonzalez Rial
-
-Lugar: _IT Master_ Av Rivadavia 5040, Buenos Aires ([ver en google maps](https://www.google.com.ar/maps/place/ITMaster/@-34.618613,-58.436906,17z/data=!3m1!4b1!4m2!3m1!1s0x95bcca46d3871a69:0x69a9cccc85a8e175))
-
-#####Marzo 2015
-Charlas:
-* _El arte de la guerra aplicado al desarrollo. Divide al enemigo_ por Adrián Cattaneo
-* _Hablemos de Frameworks_ por Alejandro Mahamad
-
-#####Diciembre 2014
-Presentación del Meetup y Networking.
-
+####Eventos/Meetups
+Nos reunimos regularmente en formato meetup en donde hay varias charlas propuestas y dictadas por los mismos integrantes de la comunidad.
+Tenes ganas de brindar una charla? presentar tu nueva librería en la que venis trabajando? proponer un proyecto comunitario? No esperes mas y abrí un [ticket/issue](https://github.com/meetupphpbsas/Bienvenidos/issues) en el repositorio para organizarlo para el próximo meetup.
+[Visita nuestros eventos](https://github.com/meetupphpbsas/Bienvenidos/blob/master/Eventos.md)
 
 ####Participación
 Cualquiera de nosotros puede aportar su granito de arena para hacer esto posible, útil y divertido para todos. No hace falta ser un Master en algo, sino solo tener ganas de charlar y compartir algo que se sepa, ayudar en la organización, en la búsqueda de lugar o en lo que se pueda desde el lugar de cada uno.
