@@ -7,7 +7,9 @@ Compartir, aprender y divertirnos. Nos guiamos por medio de los principios ágil
 
 ####Eventos/Meetups
 Nos reunimos regularmente en formato meetup en donde hay varias charlas propuestas y dictadas por los mismos integrantes de la comunidad.
+
 Tenes ganas de brindar una charla? presentar tu nueva librería en la que venis trabajando? proponer un proyecto comunitario? No esperes mas y abrí un [ticket/issue](https://github.com/meetupphpbsas/Bienvenidos/issues) en el repositorio para organizarlo para el próximo meetup.
+
 [Visita nuestros eventos](https://github.com/meetupphpbsas/Bienvenidos/blob/master/Eventos.md)
 
 ####Participación
