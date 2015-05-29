@@ -1,3 +1,14 @@
+```html
+<script async defer src="http://slackin.yourhost.com/slackin.js"></script>
+```
+
+or for the large version, append `?large`:
+
+```html
+<script async defer src="http://slackin.yourhost.com/slackin.js?large"></script>
+```
+
+
 ### Bienvenidos al repositorio del meetup de PHP Buenos Aires
 
 La idea de este espacio es tener un lugar para compartir y orgarnizar las reuniones mensuales del grupo.
