@@ -1,14 +1,3 @@
-```html
-<script async defer src="http://slackin.yourhost.com/slackin.js"></script>
-```
-
-or for the large version, append `?large`:
-
-```html
-<script async defer src="http://slackin.yourhost.com/slackin.js?large"></script>
-```
-
-
 ### Bienvenidos al repositorio del meetup de PHP Buenos Aires
 
 La idea de este espacio es tener un lugar para compartir y orgarnizar las reuniones mensuales del grupo.
@@ -33,3 +22,4 @@ Para dar una idea nomas....
 * Siguiendonos e interactuando en Twitter.
 * Incentivar a compañeros/conocidos que se sumen.
 * Trayendo mate, bizcochitos, etc para compartir en las reuniones.
+* Uniendote a nuestros canales de Slack [meetupphpbuenosaires.herokuapp.com](https://meetupphpbuenosaires.herokuapp.com)
