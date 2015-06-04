@@ -1,3 +1,6 @@
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/meetupphpbsas/Bienvenidos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ### Bienvenidos al repositorio del meetup de PHP Buenos Aires
 
 La idea de este espacio es tener un lugar para compartir y orgarnizar las reuniones mensuales del grupo.
@@ -23,3 +26,4 @@ Para dar una idea nomas....
 * Incentivar a compañeros/conocidos que se sumen.
 * Trayendo mate, bizcochitos, etc para compartir en las reuniones.
 * Uniendote a nuestros canales de Slack [meetupphpbuenosaires.herokuapp.com](https://meetupphpbuenosaires.herokuapp.com)
+* Uniendote al chat en Gitter 
