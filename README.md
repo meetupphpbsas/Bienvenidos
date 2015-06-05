@@ -27,5 +27,5 @@ Para dar una idea nomas....
 * Siguiendonos e interactuando en Twitter.
 * Incentivar a compañeros/conocidos que se sumen.
 * Trayendo mate, bizcochitos, etc para compartir en las reuniones.
-* Uniendote a nuestros canales de Slack [meetupphpbuenosaires.herokuapp.com](https://meetupphpbuenosaires.herokuapp.com)
+* Uniendote a nuestros canales de Slack [meetupphpbsas.herokuapp.com](https://meetupphpbsas.herokuapp.com)
 * Uniendote al chat en Gitter 
