@@ -1,5 +1,6 @@
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/meetupphpbsas/Bienvenidos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/meetupphpbsas/Bienvenidos)
+
 [![Date de alta en nuestro Slack](https://meetupphpbsas.herokuapp.com/badge.svg)](https://meetupphpbsas.herokuapp.com/)
 
 ### Bienvenidos al repositorio del meetup de PHP Buenos Aires
