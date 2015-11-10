@@ -1,4 +1,4 @@
-Códig de conducta
+Código de conducta
 =================
 
 Se requiere que todos los asistentes, ponentes, patrocinadores y voluntarios de nuestro meetup acepten el siguiente código de conducta. Los organizadores harán cumplir este código a lo largo del evento. Esperamos la colaboración de todos los participantes para ayudar a asegurar un ambiente seguro para todos.
